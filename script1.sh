@@ -6,3 +6,4 @@ echo "Learning git from AWS console with EC2"
 echo "Checking the branching through vsr"
 echo "from git"
 echo "From VS"s
+echo "latyes Change"
